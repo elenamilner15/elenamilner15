@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Elena Milner! 👋
 
-<!--
-**elenamilner15/elenamilner15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! 
 
-Here are some ideas to get you started:
+I have a degree in Computer Science (Automated Data Processing and Control Department). But I worked as an Electrical Engineer and designed Industrial Automation Systems. Now I'm changing my career path and excited to dive back into coding! 🤿
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💻 Computer Science Graduate
+- 🤖 Industrial Automation Systems Designer
+- 💡 Experienced Electrical Engineer
+- 🌐 Updating my experience as a Full Stack Developer
+
+## Projects
+I'm currently working on various coding projects to enhance my skills and explore different technologies. Stay tuned for updates on my latest projects!
+
